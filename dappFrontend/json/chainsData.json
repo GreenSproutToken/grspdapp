@@ -1,0 +1,101 @@
+{
+    "chainsData": [
+        {
+            "chainData": {
+                "chainName": "BNB Smart Chain Test",
+                "chainId": 97,
+                "rpcUrl": "https:\/\/data-seed-prebsc-1-s3.binance.org:8545",
+                "BlockExplorerURL": "https:\/\/testnet.bscscan.com",
+                "symbol": "BNB",
+                "standardTokens": "bep20",
+                "status": 1
+            },
+            "contractMultiTokensData": {
+                "nameCoin": "MultiTokens",
+                "addressCoin": "0x3DE0f9370F5d3ce504b215eaD37CC4e4Dd2602fE",
+                "decimals": 18,
+                "abiCoin": ""
+            },
+            "contractTokensMultiTransfersData": {
+                "nameCoin": "TokensMultiTransfers",
+                "addressCoin": "0x9Fc97F105c7A5048B58864E57EB04c011952ad77",
+                "decimals": 18,
+                "abiCoin": ""
+            }
+        },
+        {
+            "chainData": {
+                "chainName": "Binance Smart Chain Mainnet",
+                "chainId": 56,
+                "rpcUrl": "https:\/\/bsc-dataseed1.binance.org",
+                "BlockExplorerURL": "https:\/\/bscscan.com",
+                "symbol": "BNB",
+                "standardTokens": "bep20",
+                "status": 1
+            },
+            "contractMultiTokensData": {
+                "nameCoin": "MultiTokens",
+                "addressCoin": "0x3DE0f9370F5d3ce504b215eaD37CC4e4Dd2602fE",
+                "decimals": 18,
+                "abiCoin": ""
+            }
+        },
+        {
+            "chainData": {
+                "chainName": "Polygon Mainnet",
+                "chainId": 137,
+                "rpcUrl": "https:\/\/polygon-rpc.com\/",
+                "BlockExplorerURL": "https:\/\/polygonscan.com",
+                "symbol": "MATIC",
+                "standardTokens": "",
+                "status": 1
+            },
+            "contractMultiTokensData": {
+                "nameCoin": "MultiTokens",
+                "addressCoin": "0x3DE0f9370F5d3ce504b215eaD37CC4e4Dd2602fE",
+                "decimals": 18,
+                "abiCoin": ""
+            },
+            "contractTokensMultiTransfersData": {
+                "nameCoin": "TokensMultiTransfers",
+                "addressCoin": "0x9Fc97F105c7A5048B58864E57EB04c011952ad77",
+                "decimals": 18,
+                "abiCoin": ""
+            }
+        },
+        {
+            "chainData": {
+                "chainName": "Avalanche C-Chain",
+                "chainId": 43114,
+                "rpcUrl": "https:\/\/api.avax.network\/ext\/bc\/C\/rpc",
+                "BlockExplorerURL": "https:\/\/snowtrace.io",
+                "symbol": "AVAX",
+                "standardTokens": "",
+                "status": 1
+            }
+        },
+        {
+            "chainData": {
+                "chainName": "Fantom Opera",
+                "chainId": 250,
+                "rpcUrl": "https:\/\/rpc.ftm.tools",
+                "BlockExplorerURL": "https:\/\/ftmscan.com",
+                "symbol": "FTM",
+                "standardTokens": "",
+                "status": 1
+            },
+            "contractMultiTokensData": {
+                "nameCoin": "MultiTokens",
+                "addressCoin": "0xFdd8Cd0f9f834C41708Bbabbdf04797DCfc76347",
+                "decimals": 18,
+                "abiCoin": ""
+            },
+            "contractTokensMultiTransfersData": {
+                "nameCoin": "TokensMultiTransfers",
+                "addressCoin": "0xA46c35aA5DF1B09d8CE32E60e883860c8440e5a0",
+                "decimals": 18,
+                "abiCoin": ""
+            }
+        }
+    ]
+}
